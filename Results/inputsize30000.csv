@@ -1,0 +1,13 @@
+,Red Black Tree,AVL Tree
+ordered insertion,1.182021,2.185874
+rotations during ordered insertion,29973.0,29985.0
+hieght after ordered insertion,28.0,14.0
+ordered searching,0.220527,0.16348
+ordered deletion,0.723945,2.178193
+rotations during ordered deletion,14987.0,14986.0
+random insertion,0.719212,2.982053
+rotations during random insertion,17572.0,14986.0
+hieght after random insertion,19.0,17.0
+random searching,0.267795,0.195016
+random deletion,0.725373,2.716411
+rotations during random deletion,12774.0,12033.0
