@@ -1,1 +1,4 @@
-# cs17mtech11017_adsa_q2_experiment_rbt_vs_avl
+# Comparing Data Structures: Red Black Tree Vs AVL Tree 
+
+Experiments were performed during "Advanced Data Structure and Algorithms" Course
+
